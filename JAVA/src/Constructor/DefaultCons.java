@@ -23,7 +23,7 @@ public class DefaultCons
 		DefaultCons dc=new DefaultCons();//constructor called 
 		System.out.println("In Main Method:"+dc.ch);
 	    
-	   // dc.InstMeth();
+	    dc.InstMeth();
 	}
 
 }
